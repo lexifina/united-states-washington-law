@@ -1,0 +1,2 @@
+# Section 5. Elections, when to be held.
+The next election of the members of the house of representatives after the adoption of this Constitution shall be on the first Tuesday after the first Monday of November, eighteen hundred and ninety, and thereafter, members of the house of representatives shall be elected biennially and their term of office shall be two years; and each election shall be on the first Tuesday after the first Monday in November, unless otherwise changed by law.

@@ -1,0 +1,2 @@
+# Section 1. Declaration of state ownership.
+The state of Washington asserts its ownership to the beds and shores of all navigable waters in the state up to and including the line of ordinary high tide, in waters where the tide ebbs and flows, and up to and including the line of ordinary high water within the banks of all navigable rivers and lakes: that this section shall not be construed so as to debar any person from asserting his claim to vested rights in the courts of the state.

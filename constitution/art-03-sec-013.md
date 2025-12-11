@@ -1,0 +1,2 @@
+# Section 13. Vacancy in appointive office.
+When, during a recess of the legislature, a vacancy shall happen in any office, the appointment to which is vested in the legislature, or when at any time a vacancy shall have occurred in any other state office, for the filling of which vacancy no provision is made elsewhere in this Constitution, the governor shall fill such vacancy by appointment, which shall expire when a successor shall have been elected and qualified.

@@ -1,0 +1,2 @@
+# Section 17. Secretary of state, duties and salary.
+The secretary of state shall keep a record of the official acts of the legislature, and executive department of the state, and shall, when required, lay the same, and all matters relative thereto, before either branch of the legislature, and shall perform such other duties as shall be assigned him by law. He shall receive an annual salary of twenty-five hundred dollars, which may be increased by the legislature, but shall never exceed three thousand dollars per annum.

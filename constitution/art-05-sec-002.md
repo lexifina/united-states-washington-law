@@ -1,0 +1,2 @@
+# Section 2. Officers liable to.
+The governor and other state and judicial officers, except judges and justices of courts not of record, shall be liable to impeachment for high crimes or misdemeanors, or malfeasance in office, but judgment in such cases shall extend only to removal from office and disqualification to hold any office of honor, trust or profit, in the state. The party, whether convicted or acquitted, shall, nevertheless, be liable to prosecution, trial, judgment and punishment according to law.

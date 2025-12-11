@@ -1,0 +1,2 @@
+# Section 36. When bills must be introduced.
+No bill shall be considered in either house unless the time of its introduction shall have been at least ten days before the final adjournment of the legislature, unless the legislature shall otherwise direct by a vote of two-thirds of all the members elected to each house, said vote to be taken by yeas and nays and entered upon the journal, or unless the same be at a special session.

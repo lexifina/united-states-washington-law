@@ -1,0 +1,2 @@
+# Section 12. Assessment and collection of taxes in municipalities.
+The legislature shall have no power to impose taxes upon counties, cities, towns or other municipal corporations, or upon the inhabitants or property thereof, for county, city, town, or other municipal purposes, but may, by general laws, vest in the corporate authorities thereof, the power to assess and collect taxes for such purposes.

@@ -1,0 +1,2 @@
+# Section 16. When constitution to take effect.
+The provisions of this Constitution shall be in force from the day on which the president of the United States shall issue his proclamation declaring the State of Washington admitted into the Union, and the terms of all officers elected at the first election under the provisions of this Constitution shall commence on the Monday next succeeding the issue of said proclamation, unless otherwise provided herein.

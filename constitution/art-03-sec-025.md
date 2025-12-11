@@ -1,0 +1,2 @@
+# Section 25. Qualifications, compensation, offices which may be abolished.
+No person, except a citizen of the United States and a qualified elector of this state, shall be eligible to hold any state office. The compensation for state officers shall not be increased or diminished during the term for which they shall have been elected. The legislature may in its discretion abolish the offices of the lieutenant governor, auditor and commissioner of public lands.

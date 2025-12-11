@@ -1,0 +1,2 @@
+# Section 2. Organization
+- DISCIPLINE - OFFICERS - POWER TO CALL OUT. The legislature shall provide by law for organizing and disciplining the militia in such manner as it may deem expedient, not incompatible with the Constitution and laws of the United States. Officers of the militia shall be elected or appointed in such manner as the legislature shall from time to time direct and shall be commissioned by the governor. The governor shall have power to call forth the militia to execute the laws of the state to suppress insurrections and repel invasions.

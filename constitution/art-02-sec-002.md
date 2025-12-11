@@ -1,0 +1,2 @@
+# Section 2. House of representatives and senate.
+The house of representatives shall be composed of not less than sixty-three nor more than ninety-nine members. The number of senators shall not be more than one-half nor less than one-third of the number of members of the house of representatives. The first legislature shall be composed of seventy members of the house of representatives, and thirty-five senators.

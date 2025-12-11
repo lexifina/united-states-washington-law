@@ -1,0 +1,2 @@
+# Section 3. Restrictions on appropriations for capitol buildings.
+The legislature shall make no appropriations or expenditures for capitol buildings or grounds, except to keep the Territorial capitol buildings and grounds in repair, and for making all necessary additions thereto, until the seat of government shall have been permanently located, and the public buildings are erected at the permanent capital in pursuance of law.

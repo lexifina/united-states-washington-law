@@ -1,0 +1,2 @@
+# Section 2. County seats
+- LOCATION AND REMOVAL. No county seat shall be removed unless three-fifths of the qualified electors of the county, voting on the proposition at a general election shall vote in favor of such removal, and three-fifths of all votes cast on the proposition shall be required to relocate a county seat. A proposition of removal shall not be submitted in the same county more than once in four years.

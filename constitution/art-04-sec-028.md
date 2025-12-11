@@ -1,0 +1,2 @@
+# Section 28. Oath of judges.
+Every judge of the supreme court, and every judge of a superior court shall, before entering upon the duties of his office, take and subscribe an oath that he will support the Constitution of the United States and the Constitution of the State of Washington, and will faithfully and impartially discharge the duties of judge to the best of his ability, which oath shall be filed in the office of the secretary of state.

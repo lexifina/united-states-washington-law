@@ -1,0 +1,2 @@
+# Section 13. Limitation on members holding office in the state.
+No member of the legislature, during the term for which he is elected, shall be appointed or elected to any civil office in the state, which shall have been created during the term for which he was elected. Any member of the legislature who is appointed or elected to any civil office in the state, the emoluments of which have been increased during his legislative term of office, shall be compensated for the initial term of the civil office at the level designated prior to the increase in emoluments.

@@ -1,0 +1,2 @@
+# Section 25. Reports of superior court judges.
+Superior judges, shall on or before the first day of November in each year, report in writing to the judges of the supreme court such defects and omissions in the laws as their experience may suggest, and the judges of the supreme court shall on or before the first day of January in each year report in writing to the governor such defects and omissions in the laws as they may believe to exist.

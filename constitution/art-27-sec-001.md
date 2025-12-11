@@ -1,0 +1,2 @@
+# Section 1. Existing rights, actions, and contracts saved.
+No existing rights, actions, suits, proceedings, contracts or claims shall be affected by a change in the form of government, but all shall continue as if no such change had taken place; and all process which may have been issued under the authority of the Territory of Washington previous to its admission into the Union shall be as valid as if issued in the name of the state.

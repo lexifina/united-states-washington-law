@@ -1,0 +1,2 @@
+# Section 23. Court commissioners.
+There may be appointed in each county, by the judge of the superior court having jurisdiction therein, one or more court commissioners, not exceeding three in number, who shall have authority to perform like duties as a judge of the superior court at chambers, subject to revision by such judge, to take depositions and to perform such other business connected with the administration of justice as may be prescribed by law.

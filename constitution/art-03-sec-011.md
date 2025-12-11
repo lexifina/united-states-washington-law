@@ -1,0 +1,2 @@
+# Section 11. Remission of fines and forfeitures.
+The governor shall have power to remit fines and forfeitures, under such regulations as may be prescribed by law, and shall report to the legislature at its next meeting each case of reprieve, commutation or pardon granted, and the reasons for granting the same, and also the names of all persons in whose favor remission of fines and forfeitures shall have been made, and the several amounts remitted and the reasons for the remission.

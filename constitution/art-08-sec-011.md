@@ -1,0 +1,2 @@
+# Section 11. Agricultural commodity assessments
+- DEVELOPMENT, PROMOTION, AND HOSTING. The use of agricultural commodity assessments by agricultural commodity commissions in such manner as may be prescribed by the legislature for agricultural development or trade promotion and promotional hosting shall be deemed a public use for a public purpose, and shall not be deemed a gift within the provisions of section 5 of this article.

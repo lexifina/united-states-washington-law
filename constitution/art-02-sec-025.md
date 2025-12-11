@@ -1,0 +1,2 @@
+# Section 25. Extra compensation prohibited.
+The legislature shall never grant any extra compensation to any public officer, agent, employee, servant, or contractor, after the services shall have been rendered, or the contract entered into, nor shall the compensation of any public officer be increased or diminished during his term of office. Nothing in this section shall be deemed to prevent increases in pensions after such pensions shall have been granted.

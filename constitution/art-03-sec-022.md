@@ -1,0 +1,2 @@
+# Section 22. Superintendent of public instruction, duties and salary.
+The superintendent of public instruction shall have supervision over all matters pertaining to public schools, and shall perform such specific duties as may be prescribed by law. He shall receive an annual salary of twenty-five hundred dollars, which may be increased by law, but shall never exceed four thousand dollars per annum.

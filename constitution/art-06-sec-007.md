@@ -1,0 +1,2 @@
+# Section 7. Registration.
+The legislature shall enact a registration law, and shall require a compliance with such law before any elector shall be allowed to vote; that this provision is not compulsory upon the legislature except as to cities and towns having a population of over five hundred inhabitants. In all other cases the legislature may or may not require registration as a pre-requisite to the right to vote, and the same system of registration need not be adopted for both classes.

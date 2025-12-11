@@ -1,0 +1,2 @@
+# Section 2. Public school system.
+The legislature shall provide for a general and uniform system of public schools. The public school system shall include common schools, and such high schools, normal schools, and technical schools as may hereafter be established. But the entire revenue derived from the common school fund and the state tax for common schools shall be exclusively applied to the support of the common schools.

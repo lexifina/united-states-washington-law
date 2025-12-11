@@ -1,0 +1,2 @@
+# Section 24. Lotteries and divorce.
+The legislature shall never grant any divorce. Lotteries shall be prohibited except as specifically authorized upon the affirmative vote of sixty percent of the members of each house of the legislature or, notwithstanding any other provision of this Constitution, by referendum or initiative approved by a sixty percent affirmative vote of the electors voting thereon.

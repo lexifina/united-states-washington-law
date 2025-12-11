@@ -1,0 +1,2 @@
+# Section 4. Residence, contingencies affecting.
+For the purpose of voting and eligibility to office no person shall be deemed to have gained a residence by reason of his presence or lost it by reason of his absence, while in the civil or military service of the state or of the United States, nor while a student at any institution of learning, nor while kept at public expense at any poor-house or other asylum, nor while confined in public prison, nor while engaged in the navigation of the waters of this state or of the United States, or of the high seas.

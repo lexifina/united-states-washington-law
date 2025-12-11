@@ -1,0 +1,2 @@
+# Section 18. Ballot.
+The form of ballot to be used in voting for or against this Constitution, or for or against the separate articles, or for the permanent location of the seat of government, shall be: 1. For the Constitution Against the Constitution 2. For Woman Suffrage Article Against Woman Suffrage Article 3. For Prohibition Article Against Prohibition Article 4. For the Permanent Location of the Seat of Government (Name of place voted for)

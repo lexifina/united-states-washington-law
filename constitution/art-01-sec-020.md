@@ -1,0 +1,2 @@
+# Section 20. Bail, when authorized.
+All persons charged with crime shall be bailable by sufficient sureties, except for capital offenses when the proof is evident, or the presumption great. Bail may be denied for offenses punishable by the possibility of life in prison upon a showing by clear and convincing evidence of a propensity for violence that creates a substantial likelihood of danger to the community or any persons, subject to such limitations as shall be determined by the legislature.

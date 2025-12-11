@@ -1,0 +1,2 @@
+# Section 7. Credit not to be loaned.
+No county, city, town or other municipal corporation shall hereafter give any money, or property, or loan its money, or credit to or in aid of any individual, association, company or corporation, except for the necessary support of the poor and infirm, or become directly or indirectly the owner of any stock in or bonds of any association, company or corporation.

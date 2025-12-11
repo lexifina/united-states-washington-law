@@ -1,0 +1,2 @@
+# Section 11. Journal, publicity of meetings - adjournments.
+Each house shall keep a journal of its proceedings and publish the same, except such parts as require secrecy. The doors of each house shall be kept open, except when the public welfare shall require secrecy. Neither house shall adjourn for more than three days, nor to any place other than that in which they may be sitting, without the consent of the other.

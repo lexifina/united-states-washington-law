@@ -1,0 +1,2 @@
+# Section 3. Limitations on sales.
+No more than one-fourth of the land granted to the state for educational purposes shall be sold prior to January 1, 1895, and not more than one-half prior to January 1, 1905: that nothing herein shall be so construed as to prevent the state from selling the timber or stone off of any of the state lands in such manner and on such terms as may be prescribed by law: and that no sale of timber lands shall be valid unless the full value of such lands is paid or secured to the state.

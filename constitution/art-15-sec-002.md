@@ -1,0 +1,2 @@
+# Section 2. Leasing and maintenance of wharves, docks, etc.
+The legislature shall provide general laws for the leasing of the right to build and maintain wharves, docks and other structures, upon the areas mentioned in section one of this article, but no lease shall be made for any term longer than thirty years, or the legislature may provide by general laws for the building and maintaining upon such area wharves, docks, and other structures.

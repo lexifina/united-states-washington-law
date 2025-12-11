@@ -1,0 +1,2 @@
+# Section 3. Special indebtedness, how authorized.
+Except the debt specified in sections one and two of this article, no debts shall hereafter be contracted by, or on behalf of this state, unless such debt shall be authorized by law for some single work or object to be distinctly specified therein. No such law shall take effect until it shall, at a general election, or a special election called for that purpose, have been submitted to the people and have received a majority of all the votes cast for and against it at such election.

@@ -1,0 +1,2 @@
+# Section 18. Rates for transportation.
+The legislature may pass laws establishing reasonable rates of charges for the transportation of passengers and freight, and to correct abuses and prevent discrimination and extortion in the rates of freight and passenger tariffs on the different railroads and other common carriers in the state, and shall enforce such laws by adequate penalties. A railroad and transportation commission may be established and its powers and duties fully defined by law.

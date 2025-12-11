@@ -1,0 +1,2 @@
+# Section 9. Special assessments or taxation for local improvements.
+The legislature may vest the corporate authorities of cities, towns and villages with power to make local improvements by special assessment, or by special taxation of property benefited. For all corporate purposes, all municipal corporations may be vested with authority to assess and collect taxes and such taxes shall be uniform in respect to persons and property within the jurisdiction of the body levying the same.

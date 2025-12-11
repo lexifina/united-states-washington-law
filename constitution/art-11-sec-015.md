@@ -1,0 +1,2 @@
+# Section 15. Deposit of public funds.
+All moneys, assessments and taxes belonging to or collected for the use of any county, city, town or other public or municipal corporation, coming into the hands of any officer thereof, shall immediately be deposited with the treasurer, or other legal depositary to the credit of such city, town, or other corporation respectively, for the benefit of the funds to which they belong.

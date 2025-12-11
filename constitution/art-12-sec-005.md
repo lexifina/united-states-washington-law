@@ -1,0 +1,2 @@
+# Section 5. Term "corporation," defined
+- RIGHT TO SUE AND BE SUED. The term corporations, as used in this article, shall be construed to include all associations and joint stock companies having any powers or privileges of corporations not possessed by individuals or partnerships, and all corporations shall have the right to sue and shall be subject to be sued, in all courts, in like cases as natural persons.

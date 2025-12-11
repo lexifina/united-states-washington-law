@@ -1,0 +1,2 @@
+# Section 2. Laws in force continued.
+All laws now in force in the Territory of Washington, which are not repugnant to this Constitution, shall remain in force until they expire by their own limitation, or are altered or repealed by the legislature: That this section shall not be so construed as to validate any act of the legislature of Washington Territory granting shore or tide lands to any person, company or any municipal or private corporation.

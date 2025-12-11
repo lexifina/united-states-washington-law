@@ -1,0 +1,2 @@
+# Section 12. Election contests for superior judges, how decided.
+In case of a contest of election between candidates, at the first general election under this Constitution, for judges of the superior courts, the evidence shall be taken in the manner prescribed by the Territorial laws, and the testimony so taken shall be certified to the secretary of state; and said officer, together with the governor and treasurer of state, shall review the evidence and determine who is entitled to the certificate of election.
