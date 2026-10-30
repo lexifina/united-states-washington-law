@@ -1,0 +1,9 @@
+{
+  "path": "us-wa",
+  "code": "WA",
+  "name": "Washington",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-washington-law",
+  "build": "built: Constitution of the State of Washington (current text, 270 units) and RCW Title 9A (Criminal Code), section text only (one version each)",
+  "register_date": "2026-10-30"
+}

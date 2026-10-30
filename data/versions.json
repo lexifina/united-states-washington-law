@@ -1,0 +1,33 @@
+{
+ "country": "WA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Wash. Const.",
+   "title": "Constitution of the State of Washington",
+   "url": "https://leg.wa.gov/state-laws-and-rules/washington-state-constitution/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 270,
+     "source_url": "https://leg.wa.gov/media/o3fg0ey1/washington-state-constitution.pdf",
+     "sha256": "5f46f377eee219c6bbf8bae1761f97f5a6f2a196ed2a847ddc78ee322a76e8ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-9a-criminal-code",
+   "short": "RCW 9A",
+   "title": "Title 9A RCW, Washington Criminal Code",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9A",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 402,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCW/",
+     "sha256": "9aca0075460f7e85dd789f7aa77dfc9349c8a26aa4fed5af08ba68c181ff16a8"
+    }
+   ]
+  }
+ ]
+}
