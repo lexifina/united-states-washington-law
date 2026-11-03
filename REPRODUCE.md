@@ -112,12 +112,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-84` | Title 84 RCW, Property Taxes | 1 | 2026-10-26 to 2026-10-26 |
 | `title-85` | Title 85 RCW, Diking and Drainage | 1 | 2025-08-20 to 2025-08-20 |
 | `title-86` | Title 86 RCW, Flood Control | 1 | 2026-10-26 to 2026-10-26 |
+| `title-87` | Title 87 RCW, Irrigation | 1 | 2026-10-26 to 2026-10-26 |
+| `title-88` | Title 88 RCW, Navigation and Harbor Improvements | 1 | 2026-10-26 to 2026-10-26 |
+| `title-89` | Title 89 RCW, Reclamation, Soil Conservation, and Land Settlement | 1 | 2026-10-26 to 2026-10-26 |
+| `title-90` | Title 90 RCW, Water Rights-Environment | 1 | 2026-10-26 to 2026-10-26 |
+| `title-91` | Title 91 RCW, Waterways | 1 | 2024-07-14 to 2024-07-14 |
 
-The build made 97 commits:
+The build made 102 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 97 | first version of an act |
+| 102 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -125,7 +130,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 97 tags.
+- 102 tags.
 
 ## Dates
 
@@ -137,7 +142,7 @@ When a law gives no date of its own, the default rule applies: Each section file
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `99829c7856e1afb39db8563e9094c4b79e74331a58635d548c3c37967fbad956` (78117356 bytes).
+- Corpus: sha256 `5dd78132c363ff5eb7b2a16e5127e1f415056e2fc9dab9e5cc2422bd01ba9fca` (80529774 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

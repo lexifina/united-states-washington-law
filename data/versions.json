@@ -1358,6 +1358,76 @@
      "sha256": "5894afc2f438297a12b412c090a9028262084056ed84bede1aee325a895791c1"
     }
    ]
+  },
+  {
+   "slug": "title-87",
+   "short": "RCW 87",
+   "title": "Title 87 RCW, Irrigation",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=87",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 399,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2087%20%20TITLE/RCW%20%2087%20%20%20TITLE/RCW%20%2087%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "cf88dc0a5548799f1cdf1cf84f411c6e454c7418f6ff285e065674c45a019190"
+    }
+   ]
+  },
+  {
+   "slug": "title-88",
+   "short": "RCW 88",
+   "title": "Title 88 RCW, Navigation and Harbor Improvements",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=88",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 172,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2088%20%20TITLE/RCW%20%2088%20%20%20TITLE/RCW%20%2088%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "65b68e810c5879464b3e3c2ee19a907a625075dccb3a742523672cdfa1f985d2"
+    }
+   ]
+  },
+  {
+   "slug": "title-89",
+   "short": "RCW 89",
+   "title": "Title 89 RCW, Reclamation, Soil Conservation, and Land Settlement",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=89",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 362,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2089%20%20TITLE/RCW%20%2089%20%20%20TITLE/RCW%20%2089%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "d333264adb56c6a73d20e086c031eb033c0a7e4b0c97e8c3084657ee03fbe19e"
+    }
+   ]
+  },
+  {
+   "slug": "title-90",
+   "short": "RCW 90",
+   "title": "Title 90 RCW, Water Rights-Environment",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=90",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 660,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2090%20%20TITLE/RCW%20%2090%20%20%20TITLE/RCW%20%2090%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "65bdc96cf649ba4d88e544ed57b648c7cfc51b503c80cef7c74a3dea5aa1823f"
+    }
+   ]
+  },
+  {
+   "slug": "title-91",
+   "short": "RCW 91",
+   "title": "Title 91 RCW, Waterways",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=91",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 67,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2091%20%20TITLE/RCW%20%2091%20%20%20TITLE/RCW%20%2091%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "d8fe8789b1fbfc7a6fc161958d2378ba34b1c69889bff845b866a00db844e2da"
+    }
+   ]
   }
  ]
 }
