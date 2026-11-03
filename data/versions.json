@@ -28,6 +28,1336 @@
      "sha256": "9aca0075460f7e85dd789f7aa77dfc9349c8a26aa4fed5af08ba68c181ff16a8"
     }
    ]
+  },
+  {
+   "slug": "title-1",
+   "short": "RCW 1",
+   "title": "Title 1 RCW, General Provisions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=1",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 149,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%201%20%20TITLE/RCW%20%20%201%20%20%20TITLE/RCW%20%20%201%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "87242641116628b9b374606774d3a910605b460711c17160e1f49afe8d8333fd"
+    }
+   ]
+  },
+  {
+   "slug": "title-2",
+   "short": "RCW 2",
+   "title": "Title 2 RCW, Courts of Record",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=2",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 400,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%202%20%20TITLE/RCW%20%20%202%20%20%20TITLE/RCW%20%20%202%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "6b8f07293c89aee44c886bf4bf9d0ce33b3c7b992dba7509218711b348c2b92f"
+    }
+   ]
+  },
+  {
+   "slug": "title-3",
+   "short": "RCW 3",
+   "title": "Title 3 RCW, District Courts-Courts of Limited Jurisdiction",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=3",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 141,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%203%20%20TITLE/RCW%20%20%203%20%20%20TITLE/RCW%20%20%203%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "19bb27b63764d4266df33e282d4f95e0f120c84746f356c5bdd1f63404eb3551"
+    }
+   ]
+  },
+  {
+   "slug": "title-4",
+   "short": "RCW 4",
+   "title": "Title 4 RCW, Civil Procedure",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 439,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%204%20%20TITLE/RCW%20%20%204%20%20%20TITLE/RCW%20%20%204%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "ffae90e6f920b0625fa82a6f322f370fe77dd48d456950c55484ddfd5b6d0597"
+    }
+   ]
+  },
+  {
+   "slug": "title-5",
+   "short": "RCW 5",
+   "title": "Title 5 RCW, Evidence",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=5",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 98,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%205%20%20TITLE/RCW%20%20%205%20%20%20TITLE/RCW%20%20%205%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "deea5d9cb4597f8cad4a7c7fa364d5ba722370b907d950ed8eb79104f5e40cba"
+    }
+   ]
+  },
+  {
+   "slug": "title-6",
+   "short": "RCW 6",
+   "title": "Title 6 RCW, Enforcement of Judgments",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=6",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 242,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%206%20%20TITLE/RCW%20%20%206%20%20%20TITLE/RCW%20%20%206%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "eda672dcb61ffd1045892a402c3c158fd92678d1c9c0a2db5beba41f3e46e24e"
+    }
+   ]
+  },
+  {
+   "slug": "title-7",
+   "short": "RCW 7",
+   "title": "Title 7 RCW, Special Proceedings and Actions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=7",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 769,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%207%20%20TITLE/RCW%20%20%207%20%20%20TITLE/RCW%20%20%207%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a922bcfce36838431e068172bda011efb82ce74111e5d6126d59f05a1db9b144"
+    }
+   ]
+  },
+  {
+   "slug": "title-8",
+   "short": "RCW 8",
+   "title": "Title 8 RCW, Eminent Domain",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=8",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 166,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%208%20%20TITLE/RCW%20%20%208%20%20%20TITLE/RCW%20%20%208%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "f247b9520b429940e6875eecfa63442dd44a84a3d46ef63bf1677f76ee2e4341"
+    }
+   ]
+  },
+  {
+   "slug": "title-9",
+   "short": "RCW 9",
+   "title": "Title 9 RCW, Crimes and Punishments",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 729,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%20%209%20%20TITLE/RCW%20%20%209%20%20%20TITLE/RCW%20%20%209%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "8c56ca3f00ffa2ba2313deb73dc7667f2060a468dcac373f0a4d7bb7df383436"
+    }
+   ]
+  },
+  {
+   "slug": "title-10",
+   "short": "RCW 10",
+   "title": "Title 10 RCW, Criminal Procedure",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=10",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 554,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2010%20%20TITLE/RCW%20%2010%20%20%20TITLE/RCW%20%2010%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "ef61f235375e7c207b8109cb4673a64fca3fa051e878b57916f4661be551e782"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "RCW 11",
+   "title": "Title 11 RCW, Probate and Trust Law",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=11",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 972,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2011%20%20TITLE/RCW%20%2011%20%20%20TITLE/RCW%20%2011%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "2d61d86dc21e0f628bf1c89368f09a54ab225299b3e5a16eb4783b1ba9cba165"
+    }
+   ]
+  },
+  {
+   "slug": "title-12",
+   "short": "RCW 12",
+   "title": "Title 12 RCW, District Courts-Civil Procedure",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=12",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 86,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2012%20%20TITLE/RCW%20%2012%20%20%20TITLE/RCW%20%2012%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "37576e63432846a420c5e83e818aeb659cd5ca003a0d15f93e8ab5c611a02ad3"
+    }
+   ]
+  },
+  {
+   "slug": "title-13",
+   "short": "RCW 13",
+   "title": "Title 13 RCW, Juvenile Courts and Juvenile Offenders",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=13",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 346,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2013%20%20TITLE/RCW%20%2013%20%20%20TITLE/RCW%20%2013%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "2b8e3c9bb16281c28da3b6c3c1e158994b00750ea569a00d7a2186cdac470ff7"
+    }
+   ]
+  },
+  {
+   "slug": "title-14",
+   "short": "RCW 14",
+   "title": "Title 14 RCW, Aeronautics",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=14",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 66,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2014%20%20TITLE/RCW%20%2014%20%20%20TITLE/RCW%20%2014%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a49d5310b386cf03b651112cd1427dd8af0f76ef6e5eca543eff885d79cb25a8"
+    }
+   ]
+  },
+  {
+   "slug": "title-15",
+   "short": "RCW 15",
+   "title": "Title 15 RCW, Agriculture and Marketing",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=15",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1001,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2015%20%20TITLE/RCW%20%2015%20%20%20TITLE/RCW%20%2015%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "d8e71e6b4ef1d5f3c55ab2696f19f3a8b726b4d0a728b7bc14d25dccd40e4940"
+    }
+   ]
+  },
+  {
+   "slug": "title-16",
+   "short": "RCW 16",
+   "title": "Title 16 RCW, Animals and Livestock",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=16",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 350,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2016%20%20TITLE/RCW%20%2016%20%20%20TITLE/RCW%20%2016%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "1068660d8b49e05d87686db250059a770e64a5cf54956dcbe5d57a2ffe2873af"
+    }
+   ]
+  },
+  {
+   "slug": "title-17",
+   "short": "RCW 17",
+   "title": "Title 17 RCW, Weeds, Rodents, and Pests",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=17",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 212,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2017%20%20TITLE/RCW%20%2017%20%20%20TITLE/RCW%20%2017%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "f9ae89f14079306d710d258447808bf69208b25d2e2904ac10a585a26a1c09cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "RCW 18",
+   "title": "Title 18 RCW, Businesses and Professions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=18",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2287,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2018%20%20TITLE/RCW%20%2018%20%20%20TITLE/RCW%20%2018%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "8ea13d71c007f93a6cbe370dc0e74b4b9e722e7883e6fdb201776da166a09bd6"
+    }
+   ]
+  },
+  {
+   "slug": "title-19",
+   "short": "RCW 19",
+   "title": "Title 19 RCW, Business Regulations-Miscellaneous",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=19",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1492,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2019%20%20TITLE/RCW%20%2019%20%20%20TITLE/RCW%20%2019%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "be798abe12fefa75960a0000a82f28ba38f72b0b7bf9a265c149c96eac16c367"
+    }
+   ]
+  },
+  {
+   "slug": "title-20",
+   "short": "RCW 20",
+   "title": "Title 20 RCW, Commission Merchants-Agricultural Products",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=20",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 75,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2020%20%20TITLE/RCW%20%2020%20%20%20TITLE/RCW%20%2020%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "38864457ed517f19dabddba399e1b93fbedf8408a2c9ef106c94111f79fcf338"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "RCW 21",
+   "title": "Title 21 RCW, Securities and Investments",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=21",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 144,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2021%20%20TITLE/RCW%20%2021%20%20%20TITLE/RCW%20%2021%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "c987a86f63aaef27c7304a74f35ecb06725c88e412d776a0eed1de78de6ed6fa"
+    }
+   ]
+  },
+  {
+   "slug": "title-22",
+   "short": "RCW 22",
+   "title": "Title 22 RCW, Warehousing and Deposits",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=22",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 108,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2022%20%20TITLE/RCW%20%2022%20%20%20TITLE/RCW%20%2022%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a594c8e481d400b0bd07f252ca686d8ff0a80c2a2b303c5ac1dbef0389cd7b3c"
+    }
+   ]
+  },
+  {
+   "slug": "title-23",
+   "short": "RCW 23",
+   "title": "Title 23 RCW, Corporations and Associations (Profit)",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=23",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 238,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2023%20%20TITLE/RCW%20%2023%20%20%20TITLE/RCW%20%2023%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "7b2cfcf051676d1cabef43b4e1c0a2e075f2b1fca374fd7d2cddf9012d26af7c"
+    }
+   ]
+  },
+  {
+   "slug": "title-23b",
+   "short": "RCW 23B",
+   "title": "Title 23B RCW, Washington Business Corporation Act",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=23B",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 253,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2023B%20TITLE/RCW%20%2023B%20%20TITLE/RCW%20%2023B%20%20COMBINEDTITLE.pdf",
+     "sha256": "59cd2a26e091886d3a4112f118e452a4b270ffe70602fd9c77c31f73e992a576"
+    }
+   ]
+  },
+  {
+   "slug": "title-24",
+   "short": "RCW 24",
+   "title": "Title 24 RCW, Corporations and Associations (Nonprofit)",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=24",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 442,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2024%20%20TITLE/RCW%20%2024%20%20%20TITLE/RCW%20%2024%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "3caa72905e439d20348adade7b21e41c704b0c409ba7c29ab8d854c59d73ca7c"
+    }
+   ]
+  },
+  {
+   "slug": "title-25",
+   "short": "RCW 25",
+   "title": "Title 25 RCW, Partnerships",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=25",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 315,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2025%20%20TITLE/RCW%20%2025%20%20%20TITLE/RCW%20%2025%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "642f52ac35d4804bace46efa006bb9e73f8c5ceb8b675630dc32f5b3edfe40bc"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "RCW 26",
+   "title": "Title 26 RCW, Domestic Relations",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=26",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 693,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2026%20%20TITLE/RCW%20%2026%20%20%20TITLE/RCW%20%2026%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "e1968c96e22a439b0ea5ba9b50c82ead962cfd12ec3056306fd66b9ab43f0b5a"
+    }
+   ]
+  },
+  {
+   "slug": "title-27",
+   "short": "RCW 27",
+   "title": "Title 27 RCW, Libraries, Museums, and Historical Activities",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=27",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 153,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2027%20%20TITLE/RCW%20%2027%20%20%20TITLE/RCW%20%2027%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "050c8b24d21ac5962f2a0362280790c71db0101dda030bd66d7573fdddb0186d"
+    }
+   ]
+  },
+  {
+   "slug": "title-28a",
+   "short": "RCW 28A",
+   "title": "Title 28A RCW, Common School Provisions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1559,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2028A%20TITLE/RCW%20%2028A%20%20TITLE/RCW%20%2028A%20%20COMBINEDTITLE.pdf",
+     "sha256": "b4b0f9849a3b3f6a123fe34b1f0d15049b182ffcb1f7dc2bc065db65a39f92cb"
+    }
+   ]
+  },
+  {
+   "slug": "title-28b",
+   "short": "RCW 28B",
+   "title": "Title 28B RCW, Higher Education",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28B",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1103,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2028B%20TITLE/RCW%20%2028B%20%20TITLE/RCW%20%2028B%20%20COMBINEDTITLE.pdf",
+     "sha256": "880a322dd142e819ff4761924d4ac798b928fe47635158572b413c99ce2b9776"
+    }
+   ]
+  },
+  {
+   "slug": "title-28c",
+   "short": "RCW 28C",
+   "title": "Title 28C RCW, Vocational Education",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28C",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 71,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2028C%20TITLE/RCW%20%2028C%20%20TITLE/RCW%20%2028C%20%20COMBINEDTITLE.pdf",
+     "sha256": "106d02ca00386f4ac194b99db88a8982d0f279382acc1f408033b2aedbc25019"
+    }
+   ]
+  },
+  {
+   "slug": "title-29a",
+   "short": "RCW 29A",
+   "title": "Title 29A RCW, Elections",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=29A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 498,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2029A%20TITLE/RCW%20%2029A%20%20TITLE/RCW%20%2029A%20%20COMBINEDTITLE.pdf",
+     "sha256": "78d19f377e235d941e4c74c0374aea61de687b986d6d7579a0d46f0d04869c25"
+    }
+   ]
+  },
+  {
+   "slug": "title-29b",
+   "short": "RCW 29B",
+   "title": "Title 29B RCW, Campaign Disclosure and Contribution",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=29B",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 155,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2029B%20TITLE/RCW%20%2029B%20%20TITLE/RCW%20%2029B%20%20COMBINEDTITLE.pdf",
+     "sha256": "fa9b945c43152c8cf3beacaa193837d6763c45c2a27ad30c1b02ac69699a6f89"
+    }
+   ]
+  },
+  {
+   "slug": "title-30a",
+   "short": "RCW 30A",
+   "title": "Title 30A RCW, Washington Commercial Bank Act",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=30A",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 298,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2030A%20TITLE/RCW%20%2030A%20%20TITLE/RCW%20%2030A%20%20COMBINEDTITLE.pdf",
+     "sha256": "52d76cc61f0621e77e8cfb9141674735a354a45428b930356bba3fc6478e0290"
+    }
+   ]
+  },
+  {
+   "slug": "title-30b",
+   "short": "RCW 30B",
+   "title": "Title 30B RCW, Washington Trust Institutions Act",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=30B",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 156,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2030B%20TITLE/RCW%20%2030B%20%20TITLE/RCW%20%2030B%20%20COMBINEDTITLE.pdf",
+     "sha256": "aa36f6f35e25bdb8b73c155d9b401f708eddf60daa3ba7df49de93620d33c0a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-31",
+   "short": "RCW 31",
+   "title": "Title 31 RCW, Miscellaneous Loan Agencies",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=31",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 280,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2031%20%20TITLE/RCW%20%2031%20%20%20TITLE/RCW%20%2031%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "70d26e08b76bc27381e71b8abde0a93114e0c8fde9ea5ef7e213c917f2d63ba7"
+    }
+   ]
+  },
+  {
+   "slug": "title-32",
+   "short": "RCW 32",
+   "title": "Title 32 RCW, Washington Savings Bank Act",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=32",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 295,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2032%20%20TITLE/RCW%20%2032%20%20%20TITLE/RCW%20%2032%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "7e255e0b978d14a2f8c37c5fe39f778306c43e4e6ec9ebb54485faa0bd87ddc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-33",
+   "short": "RCW 33",
+   "title": "Title 33 RCW, Washington Savings Association Act",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=33",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 162,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2033%20%20TITLE/RCW%20%2033%20%20%20TITLE/RCW%20%2033%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "e00657aaafac69b4dbe55c220ee1087cd072a28853fc86e16bf6ac1fa4beaa1e"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "RCW 34",
+   "title": "Title 34 RCW, Administrative Law",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=34",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 141,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2034%20%20TITLE/RCW%20%2034%20%20%20TITLE/RCW%20%2034%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "5d9c2663c8664a8ccddeb5e2fbb9fde354fdfa2dac4b05aa4a8756fa8afeaee0"
+    }
+   ]
+  },
+  {
+   "slug": "title-35",
+   "short": "RCW 35",
+   "title": "Title 35 RCW, Cities and Towns",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=35",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1755,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2035%20%20TITLE/RCW%20%2035%20%20%20TITLE/RCW%20%2035%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "641191cbe025789f1c153d3decb6f56b3b51a4fc25399d887ecbf96591c537f9"
+    }
+   ]
+  },
+  {
+   "slug": "title-35a",
+   "short": "RCW 35A",
+   "title": "Title 35A RCW, Optional Municipal Code",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=35A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 481,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2035A%20TITLE/RCW%20%2035A%20%20TITLE/RCW%20%2035A%20%20COMBINEDTITLE.pdf",
+     "sha256": "9470d79703f958eba9ae96eb7f8e63bf4007572b3e855453052a54669287ba1a"
+    }
+   ]
+  },
+  {
+   "slug": "title-36",
+   "short": "RCW 36",
+   "title": "Title 36 RCW, Counties",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=36",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1834,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2036%20%20TITLE/RCW%20%2036%20%20%20TITLE/RCW%20%2036%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "98f77a8c108a57ff78e46659cd35feee26f009635ca5417e87750ada32b7ded0"
+    }
+   ]
+  },
+  {
+   "slug": "title-37",
+   "short": "RCW 37",
+   "title": "Title 37 RCW, Federal Areas-Indians",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=37",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 30,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2037%20%20TITLE/RCW%20%2037%20%20%20TITLE/RCW%20%2037%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "1c5af0da698e24bf60c823b3d0e25c2d7cfda5298e7bddfb85d281c958c6762c"
+    }
+   ]
+  },
+  {
+   "slug": "title-38",
+   "short": "RCW 38",
+   "title": "Title 38 RCW, Militia and Military Affairs",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=38",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 339,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2038%20%20TITLE/RCW%20%2038%20%20%20TITLE/RCW%20%2038%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "c7f98888899659b9ba02ad4af31fa11284d9276e3ec58e5b2fff990884ad8388"
+    }
+   ]
+  },
+  {
+   "slug": "title-39",
+   "short": "RCW 39",
+   "title": "Title 39 RCW, Public Contracts and Indebtedness",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=39",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 635,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2039%20%20TITLE/RCW%20%2039%20%20%20TITLE/RCW%20%2039%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "cd7751d9c3530d9189ba6b61395c2a46f05ced4502e71a84e66be120a28c28b5"
+    }
+   ]
+  },
+  {
+   "slug": "title-40",
+   "short": "RCW 40",
+   "title": "Title 40 RCW, Public Documents, Records, and Publications",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=40",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 62,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2040%20%20TITLE/RCW%20%2040%20%20%20TITLE/RCW%20%2040%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "e5340c1a6cbdeb21d8f167eff62391faad42be03d63e2ad0dcb809ef96c9e199"
+    }
+   ]
+  },
+  {
+   "slug": "title-41",
+   "short": "RCW 41",
+   "title": "Title 41 RCW, Public Employment, Civil Service, and Pensions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=41",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1417,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2041%20%20TITLE/RCW%20%2041%20%20%20TITLE/RCW%20%2041%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "7d09425a7aa961c1a75877f03bfbdecb79ac48d11b442d2af6f884807dc8fc20"
+    }
+   ]
+  },
+  {
+   "slug": "title-42",
+   "short": "RCW 42",
+   "title": "Title 42 RCW, Public Officers and Agencies",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=42",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 354,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2042%20%20TITLE/RCW%20%2042%20%20%20TITLE/RCW%20%2042%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "50d9fe861ce4d421ead92b413e6b2006807eefa809ebe001a32686eaccd988a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "RCW 43",
+   "title": "Title 43 RCW, State Government-Executive",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=43",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3534,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2043%20%20TITLE/RCW%20%2043%20%20%20TITLE/RCW%20%2043%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "104138d8fe9d2fceb3fae36883ae664c31da60d8a69f73cc6358c19da00a7669"
+    }
+   ]
+  },
+  {
+   "slug": "title-44",
+   "short": "RCW 44",
+   "title": "Title 44 RCW, State Government-Legislative",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=44",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 184,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2044%20%20TITLE/RCW%20%2044%20%20%20TITLE/RCW%20%2044%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "521207767d04a00ad55c9e4ecae6dcbb20873cd5fb3a328ccce7ed0cd430ec42"
+    }
+   ]
+  },
+  {
+   "slug": "title-46",
+   "short": "RCW 46",
+   "title": "Title 46 RCW, Motor Vehicles",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1670,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2046%20%20TITLE/RCW%20%2046%20%20%20TITLE/RCW%20%2046%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "239cb4c0017fed5aec7b967fce10e8d98268d8f96f192899b4e5b4a67bcec736"
+    }
+   ]
+  },
+  {
+   "slug": "title-47",
+   "short": "RCW 47",
+   "title": "Title 47 RCW, Public Highways and Transportation",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=47",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1246,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2047%20%20TITLE/RCW%20%2047%20%20%20TITLE/RCW%20%2047%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "837bfa40075853d6da94a27c018be367a8896b7140cabd3f69adae00a3050e0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-48",
+   "short": "RCW 48",
+   "title": "Title 48 RCW, Insurance",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=48",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2136,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2048%20%20TITLE/RCW%20%2048%20%20%20TITLE/RCW%20%2048%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "01a88c8fe3df67bb5ee3c71390de99929673c224d38a4bb3c9f6ea6bf0ddc707"
+    }
+   ]
+  },
+  {
+   "slug": "title-49",
+   "short": "RCW 49",
+   "title": "Title 49 RCW, Labor Regulations",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=49",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 684,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2049%20%20TITLE/RCW%20%2049%20%20%20TITLE/RCW%20%2049%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "24609d56f8bad8c2e9bd489bde1908866c94610c57811fe02c33e1820f3de8a8"
+    }
+   ]
+  },
+  {
+   "slug": "title-50",
+   "short": "RCW 50",
+   "title": "Title 50 RCW, Unemployment Compensation",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=50",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 395,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2050%20%20TITLE/RCW%20%2050%20%20%20TITLE/RCW%20%2050%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a0641318af5fd63996247954875ce27b38fc7bf7ab7282650cfcebf41ad0d2d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-50a",
+   "short": "RCW 50A",
+   "title": "Title 50A RCW, Family and Medical Leave",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=50A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 109,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2050A%20TITLE/RCW%20%2050A%20%20TITLE/RCW%20%2050A%20%20COMBINEDTITLE.pdf",
+     "sha256": "57a3a22c770b15ab6960b87ef5c242958a2f6dd722d66ce66e98da0402f62ae3"
+    }
+   ]
+  },
+  {
+   "slug": "title-50b",
+   "short": "RCW 50B",
+   "title": "Title 50B RCW, Long-Term Care",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=50B",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2050B%20TITLE/RCW%20%2050B%20%20TITLE/RCW%20%2050B%20%20COMBINEDTITLE.pdf",
+     "sha256": "70982e9f9077766195c310ae0194cfa3448fd70b4d738a4b3cfca32001fa74a6"
+    }
+   ]
+  },
+  {
+   "slug": "title-51",
+   "short": "RCW 51",
+   "title": "Title 51 RCW, Industrial Insurance",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=51",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 348,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2051%20%20TITLE/RCW%20%2051%20%20%20TITLE/RCW%20%2051%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "da2fc2db99a43d6d6bbb63e248ece6da853eafb86f4fcb8b848ef648a66d3779"
+    }
+   ]
+  },
+  {
+   "slug": "title-52",
+   "short": "RCW 52",
+   "title": "Title 52 RCW, Fire Protection Districts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=52",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 183,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2052%20%20TITLE/RCW%20%2052%20%20%20TITLE/RCW%20%2052%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "bd61e7772469cf9000d01341a0e8044d8dc1911a3066cbe679c1d8aa5fc4fea1"
+    }
+   ]
+  },
+  {
+   "slug": "title-53",
+   "short": "RCW 53",
+   "title": "Title 53 RCW, Port Districts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=53",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 278,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2053%20%20TITLE/RCW%20%2053%20%20%20TITLE/RCW%20%2053%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "59d404005fe48f1ca7bb2b917b5b3264100feea3f9ebc7ae6fc22603b3425b1e"
+    }
+   ]
+  },
+  {
+   "slug": "title-54",
+   "short": "RCW 54",
+   "title": "Title 54 RCW, Public Utility Districts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=54",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 169,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2054%20%20TITLE/RCW%20%2054%20%20%20TITLE/RCW%20%2054%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "09c0d361379b87404c16d36533f36d164607a3262c9cac33bd01b3f379ee39ea"
+    }
+   ]
+  },
+  {
+   "slug": "title-55",
+   "short": "RCW 55",
+   "title": "Title 55 RCW, Sanitary Districts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=55",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 2,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2055%20%20TITLE/RCW%20%2055%20%20%20TITLE/RCW%20%2055%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "6ccf2d2f69360af813e860251b9f8ddd850671e339e1d1d3d9c43a5bf12a9286"
+    }
+   ]
+  },
+  {
+   "slug": "title-57",
+   "short": "RCW 57",
+   "title": "Title 57 RCW, Water-Sewer Districts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=57",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 190,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2057%20%20TITLE/RCW%20%2057%20%20%20TITLE/RCW%20%2057%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "ea7de03a87066632542ea4ec5453c45cfe0ef207437eec38823acd1e6375bd40"
+    }
+   ]
+  },
+  {
+   "slug": "title-58",
+   "short": "RCW 58",
+   "title": "Title 58 RCW, Boundaries and Plats",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=58",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 182,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2058%20%20TITLE/RCW%20%2058%20%20%20TITLE/RCW%20%2058%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "05e8cc5de964d57750767d25d3810216da7728a059109a324c883dce8c66eec8"
+    }
+   ]
+  },
+  {
+   "slug": "title-59",
+   "short": "RCW 59",
+   "title": "Title 59 RCW, Landlord and Tenant",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=59",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 250,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2059%20%20TITLE/RCW%20%2059%20%20%20TITLE/RCW%20%2059%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "01a628de67c82241f67a8abbbd84147b1a868e1ca40eb2dfc83d87d7ac32665a"
+    }
+   ]
+  },
+  {
+   "slug": "title-60",
+   "short": "RCW 60",
+   "title": "Title 60 RCW, Liens",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=60",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 223,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2060%20%20TITLE/RCW%20%2060%20%20%20TITLE/RCW%20%2060%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "fac6fd04666540a75f58d16afda4608191ecc60803e3dc0dc3f7fce209db8733"
+    }
+   ]
+  },
+  {
+   "slug": "title-61",
+   "short": "RCW 61",
+   "title": "Title 61 RCW, Mortgages, Deeds of Trust, and Real Estate Contracts",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=61",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 104,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2061%20%20TITLE/RCW%20%2061%20%20%20TITLE/RCW%20%2061%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a925dce1ab518ef1b235bcb1751d30a4606b5a2419a7b21016fdb6f074ab420d"
+    }
+   ]
+  },
+  {
+   "slug": "title-62a",
+   "short": "RCW 62A",
+   "title": "Title 62A RCW, Uniform Commercial Code",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=62A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 656,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2062A%20TITLE/RCW%20%2062A%20%20TITLE/RCW%20%2062A%20%20COMBINEDTITLE.pdf",
+     "sha256": "c25618bdda81b06085b1e389b1419a089cfe93e011d7f22280c1ba44b1c2ec0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-63",
+   "short": "RCW 63",
+   "title": "Title 63 RCW, Personal Property",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=63",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 223,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2063%20%20TITLE/RCW%20%2063%20%20%20TITLE/RCW%20%2063%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "327db5c9f83719c03a5e7afb82d9fe1b3e971dac4e28a1ee70aa6defa323268c"
+    }
+   ]
+  },
+  {
+   "slug": "title-64",
+   "short": "RCW 64",
+   "title": "Title 64 RCW, Real Property and Conveyances",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 520,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2064%20%20TITLE/RCW%20%2064%20%20%20TITLE/RCW%20%2064%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "0b24ec29ac47f3b8e53790a4e9bdff3d56bde11487520a33831e3d944717738d"
+    }
+   ]
+  },
+  {
+   "slug": "title-65",
+   "short": "RCW 65",
+   "title": "Title 65 RCW, Recording, Registration, and Legal Publication",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=65",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 72,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2065%20%20TITLE/RCW%20%2065%20%20%20TITLE/RCW%20%2065%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "d754908d9d25ec4ead9cf7729478c856024d243599468e7b4573a805ebeb19aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-66",
+   "short": "RCW 66",
+   "title": "Title 66 RCW, Alcoholic Beverage Control",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=66",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 286,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2066%20%20TITLE/RCW%20%2066%20%20%20TITLE/RCW%20%2066%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "fd80291337905b6c3601c9d42c98c5f4b92dc7c401bb03af885769c55e32040b"
+    }
+   ]
+  },
+  {
+   "slug": "title-67",
+   "short": "RCW 67",
+   "title": "Title 67 RCW, Sports and Recreation-Convention Facilities",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=67",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 214,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2067%20%20TITLE/RCW%20%2067%20%20%20TITLE/RCW%20%2067%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "c02554d87e63e9df5461c266ea674bf1bd9344d704c9c36f8997f3fd52e5565c"
+    }
+   ]
+  },
+  {
+   "slug": "title-68",
+   "short": "RCW 68",
+   "title": "Title 68 RCW, Cemeteries, Morgues, and Human Remains",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=68",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 346,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2068%20%20TITLE/RCW%20%2068%20%20%20TITLE/RCW%20%2068%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "9f8eed80cec6b69751f5a0027b88f7cca7c89326afbcaf9f721c8dd39d333930"
+    }
+   ]
+  },
+  {
+   "slug": "title-69",
+   "short": "RCW 69",
+   "title": "Title 69 RCW, Food, Drugs, Cosmetics, and Poisons",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=69",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 625,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2069%20%20TITLE/RCW%20%2069%20%20%20TITLE/RCW%20%2069%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "96aad050c2472147cfcea8ceaa4685884cc517f3e43f110377e6ab978f367b7e"
+    }
+   ]
+  },
+  {
+   "slug": "title-70",
+   "short": "RCW 70",
+   "title": "Title 70 RCW, Public Health and Safety",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=70",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1454,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2070%20%20TITLE/RCW%20%2070%20%20%20TITLE/RCW%20%2070%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "07b4468183ef2ff6ee6724cd81f61d9d57e2559a8d19c7d7f99da875bacfcfd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-70a",
+   "short": "RCW 70A",
+   "title": "Title 70A RCW, Environmental Health and Safety",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=70A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1258,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2070A%20TITLE/RCW%20%2070A%20%20TITLE/RCW%20%2070A%20%20COMBINEDTITLE.pdf",
+     "sha256": "4d05a12e9d9746ca237c5ebec3bbb4a937196aa270d6dd8791dc67c07784eb37"
+    }
+   ]
+  },
+  {
+   "slug": "title-71",
+   "short": "RCW 71",
+   "title": "Title 71 RCW, Behavioral Health",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=71",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 468,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2071%20%20TITLE/RCW%20%2071%20%20%20TITLE/RCW%20%2071%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "3a886544234da173e341d4041530b3205ab620535d0ac86df3dfd3228691e01f"
+    }
+   ]
+  },
+  {
+   "slug": "title-71a",
+   "short": "RCW 71A",
+   "title": "Title 71A RCW, Developmental Disabilities",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=71A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 115,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2071A%20TITLE/RCW%20%2071A%20%20TITLE/RCW%20%2071A%20%20COMBINEDTITLE.pdf",
+     "sha256": "d934e558783c7e2720d94cf2819b62d1f15fbfbc5dcaf82062ce701f701c7234"
+    }
+   ]
+  },
+  {
+   "slug": "title-72",
+   "short": "RCW 72",
+   "title": "Title 72 RCW, State Institutions",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=72",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 477,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2072%20%20TITLE/RCW%20%2072%20%20%20TITLE/RCW%20%2072%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "3e1b03cd104a831ea3f4f2043fe4dceefdfcc53e384bede9af5e28fb608cd19f"
+    }
+   ]
+  },
+  {
+   "slug": "title-73",
+   "short": "RCW 73",
+   "title": "Title 73 RCW, Veterans and Veterans' Affairs",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=73",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 72,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2073%20%20TITLE/RCW%20%2073%20%20%20TITLE/RCW%20%2073%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "70be513ab2d2a1336d798e44323513432d8dd023ccb4e0301d67a2ead8c5d2b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-74",
+   "short": "RCW 74",
+   "title": "Title 74 RCW, Public Assistance",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=74",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 933,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2074%20%20TITLE/RCW%20%2074%20%20%20TITLE/RCW%20%2074%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "6470ae52eafaf24fc10e2b0853957d68ce2064901c329a1ae85f5fe1e0d91ffc"
+    }
+   ]
+  },
+  {
+   "slug": "title-76",
+   "short": "RCW 76",
+   "title": "Title 76 RCW, Forests and Forest Products",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=76",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 240,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2076%20%20TITLE/RCW%20%2076%20%20%20TITLE/RCW%20%2076%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "4afb5c42f4dc9ac7abc5c634717d48628e6ef6410eaa7e55de702659c10d3ce2"
+    }
+   ]
+  },
+  {
+   "slug": "title-77",
+   "short": "RCW 77",
+   "title": "Title 77 RCW, Fish and Wildlife",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=77",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 643,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2077%20%20TITLE/RCW%20%2077%20%20%20TITLE/RCW%20%2077%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "90c41ced51ba60e9c66c672fafcf1943d53567bc116d61d62af5ea3dfe2a2722"
+    }
+   ]
+  },
+  {
+   "slug": "title-78",
+   "short": "RCW 78",
+   "title": "Title 78 RCW, Mines, Minerals, and Petroleum",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=78",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 199,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2078%20%20TITLE/RCW%20%2078%20%20%20TITLE/RCW%20%2078%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "f312e8587ca443de2e7b5ceeaac8d7ee6b3e5d20b2a734280bf4b41b1f786576"
+    }
+   ]
+  },
+  {
+   "slug": "title-79",
+   "short": "RCW 79",
+   "title": "Title 79 RCW, Public Lands",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=79",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 656,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2079%20%20TITLE/RCW%20%2079%20%20%20TITLE/RCW%20%2079%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "4583d39d2b82b5393f4daf23fc9029803ef2939911189d2230a739328973808e"
+    }
+   ]
+  },
+  {
+   "slug": "title-79a",
+   "short": "RCW 79A",
+   "title": "Title 79A RCW, Public Recreational Lands",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=79A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 330,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2079A%20TITLE/RCW%20%2079A%20%20TITLE/RCW%20%2079A%20%20COMBINEDTITLE.pdf",
+     "sha256": "dfbd59929eb319d67066785700aff698980af2002c6d24600ae57d8f936e8a2f"
+    }
+   ]
+  },
+  {
+   "slug": "title-80",
+   "short": "RCW 80",
+   "title": "Title 80 RCW, Public Utilities",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=80",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 367,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2080%20%20TITLE/RCW%20%2080%20%20%20TITLE/RCW%20%2080%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "a4c79248dc90824bd7c32aabd25bc3063abb6bf2d4a52870bc126b3d600d7956"
+    }
+   ]
+  },
+  {
+   "slug": "title-81",
+   "short": "RCW 81",
+   "title": "Title 81 RCW, Transportation",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=81",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 474,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2081%20%20TITLE/RCW%20%2081%20%20%20TITLE/RCW%20%2081%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "d02be3e8b70e50f1d4eb23194e180b5d7f4406c591c9956aceff06a825c6cca6"
+    }
+   ]
+  },
+  {
+   "slug": "title-82",
+   "short": "RCW 82",
+   "title": "Title 82 RCW, Excise Taxes",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=82",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1441,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2082%20%20TITLE/RCW%20%2082%20%20%20TITLE/RCW%20%2082%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "fe2854d1aa02ead6645e9f6b15115ae6095aa95f939744b295f02fb7fbc9e277"
+    }
+   ]
+  },
+  {
+   "slug": "title-82a",
+   "short": "RCW 82A",
+   "title": "Title 82A RCW, Income Tax",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=82A",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 43,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2082A%20TITLE/RCW%20%2082A%20%20TITLE/RCW%20%2082A%20%20COMBINEDTITLE.pdf",
+     "sha256": "24a27ca4fa604721ff766deb5344dc0fb305d2d8fd4b4e24a57d877d56d41b17"
+    }
+   ]
+  },
+  {
+   "slug": "title-83",
+   "short": "RCW 83",
+   "title": "Title 83 RCW, Estate Taxation",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=83",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 45,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2083%20%20TITLE/RCW%20%2083%20%20%20TITLE/RCW%20%2083%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "e109a115beb87384f86d62d88bc23c93738d99d35bad7f1d75152d09cfed10ae"
+    }
+   ]
+  },
+  {
+   "slug": "title-84",
+   "short": "RCW 84",
+   "title": "Title 84 RCW, Property Taxes",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 617,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2084%20%20TITLE/RCW%20%2084%20%20%20TITLE/RCW%20%2084%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "677053ba181e55daffed1831cdaceba5a32f690347e14c9b608cc9cc169969ec"
+    }
+   ]
+  },
+  {
+   "slug": "title-85",
+   "short": "RCW 85",
+   "title": "Title 85 RCW, Diking and Drainage",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=85",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 376,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2085%20%20TITLE/RCW%20%2085%20%20%20TITLE/RCW%20%2085%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "15397af534b8dd56acbbd720090f2ea25e480d9246c91cf7efda422d91f86193"
+    }
+   ]
+  },
+  {
+   "slug": "title-86",
+   "short": "RCW 86",
+   "title": "Title 86 RCW, Flood Control",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=86",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 228,
+     "source_url": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2086%20%20TITLE/RCW%20%2086%20%20%20TITLE/RCW%20%2086%20%20%20COMBINEDTITLE.pdf",
+     "sha256": "5894afc2f438297a12b412c090a9028262084056ed84bede1aee325a895791c1"
+    }
+   ]
   }
  ]
 }

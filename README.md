@@ -1,23 +1,24 @@
 # Washington: law history in git
 
-The Constitution of the State of Washington and Title 9A of the Revised Code of Washington (the Criminal Code) as a git repository: one file per section, committed with the Washington Office of the Code Reviser as its publisher. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/washington/`.
+The Constitution of the State of Washington and the Revised Code of Washington (RCW) as a git repository: one file per section, committed with the Washington Office of the Code Reviser as its publisher. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/washington/`.
 
 **What is in it now**
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution of the State of Washington (1889, as amended): Preamble and Articles I to XXXII, 270 units | 1 | One version, the current text in the Legislature's PDF printed 11 December 2025 |
-| `title-9a-criminal-code/` | Title 9A RCW, Washington Criminal Code (402 sections) | 1 | One version, the Code Reviser's current text |
+| `title-9a-criminal-code/` | Title 9A RCW, Washington Criminal Code (402 sections) | 1 | One version, the Code Reviser's current text (section files) |
+| `title-*/` | Every other RCW title, one folder per title | 1 | One version, the Code Reviser's certified text (combined title PDF) |
 
-That is all the law this repository holds today. This is a first build: the other RCW titles, session laws and the Washington Administrative Code are not in it, and it has no amendment history yet.
+Titles were added in parts from 2 November 2026; `data/versions.json` lists what each commit holds. The session laws and the Washington Administrative Code are not in it, and it has no amendment history yet.
 
 ## Where the text comes from
 
-The Constitution is read from part (A) of the Legislature's PDF (leg.wa.gov), which sets each current section in regular type and the earlier texts of amended sections in italics; this build keeps the regular type only and leaves out the bracketed amendment history notes and the Reviser's notes. A section is one line, because the PDF does not mark paragraph breaks reliably. The Code Reviser publishes every RCW section as its own file at lawfilesext.leg.wa.gov. This build takes the Text of each section from those files and nothing else. It leaves out the history line (the session laws that enacted and amended the section), the notes, cross references and annotations.
+The Constitution is read from part (A) of the Legislature's PDF (leg.wa.gov), which sets each current section in regular type and the earlier texts of amended sections in italics; this build keeps the regular type only and leaves out the bracketed amendment history notes and the Reviser's notes. A section is one line, because the PDF does not mark paragraph breaks reliably. The Code Reviser publishes every RCW section as its own file at lawfilesext.leg.wa.gov. Title 9A takes the Text of each section from those files and nothing else. The other titles are read from the Code Reviser's combined title PDFs (lawfilesext.leg.wa.gov/law/RCWPDF/), the certified text of each title: a section runs from its bold "RCW" heading to its bracketed history note. Both leave out the history line (the session laws that enacted and amended the section), the notes, cross references and annotations.
 
 ## Dates
 
-- Each title has a single version, dated by the latest modification date the publisher's directory listings show for that title's section files. It is the oldest version available: the Code Reviser's annual RCW archive (2023 to 2026) is published as certified PDFs, which this build did not read, so no earlier text is here. Each first commit is credited to the publisher as "oldest version available".
+- Each title has a single version: Title 9A dated by the latest modification date the publisher's directory listings show for its section files, every other title by the modification date of its combined title PDF. Where a section is printed in two forms ("Effective until ..." and "Effective ..."), the form in force on 3 November 2026 is kept. It is the oldest version available: the Code Reviser's annual RCW archive (2023 to 2026) is published as certified PDFs, which this build did not read, so no earlier text is here. Each first commit is credited to the publisher as "oldest version available".
 - The Constitution has one version, dated by the print date on the PDF (11 December 2025). It is the oldest version available; its earlier texts are shown in the PDF only as superseded italics and are not built into dated versions.
 
 ## What it does not show
