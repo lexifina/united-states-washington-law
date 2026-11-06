@@ -1,5 +1,7 @@
 # Washington: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Washington, United States, which global-law reads at `united-states/washington/acts/`.
+
 The Constitution of the State of Washington and the Revised Code of Washington (RCW) as a git repository: one file per section, committed with the Washington Office of the Code Reviser as its publisher. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/washington/`.
 
 **What is in it now**
